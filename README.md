@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @codernoyan
+- 👋 Hi, I’m Noyan Dey
 - 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ...Web Development and Programming
+- 🌱 I’m currently learning ...Web Development
 - 💞️ I’m looking to collaborate on ...a team
 - 📫 How to reach me ...
   on instagram noyandey1
