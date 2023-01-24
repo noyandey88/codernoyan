@@ -6,8 +6,8 @@
   on instagram noyandey1
   
   Contact Details:
-  noyandey88@gmail.com
-  WhatsApp: +8801835231497
+  # Email: noyandey88@gmail.com
+  # WhatsApp: +8801835231497
 - My Portfolio: https://noyandey.vercel.app
 <!---
 codernoyan/codernoyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
