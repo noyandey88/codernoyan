@@ -9,6 +9,7 @@
   ### Email: noyandey88@gmail.com
   ### WhatsApp: +8801835231497
 - My Portfolio: https://noyandey.vercel.app
+- LinkedIn: https://www.linkedin.com/in/noyandey88/
 <!---
 codernoyan/codernoyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
