@@ -114,13 +114,8 @@ You can click the Preview link to take a look at your changes.
 [![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam)
 [![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam.github.io) -->
 
-<!-- <p align="left">
+<p align="left">
   <a href="https://github.com/codernoyan?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p> -->
-<p align="center">
-  <a href="https://github.com/codernoyan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=codernoyan&theme=default&border=indigo&background=transparent&ring=7F3FBF&fire=7F3FBF&currStreakNum=7F3FBF&sideLabels=7F3FBF&sideNums=7F3FBF&dates=7F3FBF&currStreakLabel=7F3FBF&stroke=7F3FBF" alt="Saif's GitHub streak"/>
-  </a>
 </p>
 
 <br/>
