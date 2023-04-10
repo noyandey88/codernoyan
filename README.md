@@ -46,7 +46,9 @@ You can click the Preview link to take a look at your changes.
   <samp>
     <a href="https://www.google.com/search?q=noyan+dey">「 Google Me 」</a>
     <br>
-    「 Enthusiastic Frontend Developer from <b>Chattogram, Bangladesh</b> 」
+        「 Enthusiastic Frontend Developer 」
+    </br>
+    <em>Chattogram, Bangladesh</em>
     <br>
     <br>
   </samp>
