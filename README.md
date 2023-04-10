@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hello There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Noyan Dey</a></b>
+                <b><a target="_blank" href="https://noyandey.vercel.app">Noyan Dey</a></b>
         </samp>
 </h3>
 
