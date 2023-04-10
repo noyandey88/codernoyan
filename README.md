@@ -76,7 +76,7 @@ You can click the Preview link to take a look at your changes.
  <img align="right" width="350" src="/assets/programming.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ ❤️ &emsp; Passionate about writing code and curious to explore new technologies<br/><br/>
  📧 &emsp; Reach me anytime: noyandey88@gmail.com<br/><br/>
 
 </p>
