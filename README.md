@@ -8,7 +8,7 @@
   Contact Details:
   ### Email: noyandey88@gmail.com
   ### WhatsApp: +8801835231497
-- My Portfolio: https://noyandey.vercel.app
+- My Portfolio: https://noyan.pages.dev
 - LinkedIn: https://www.linkedin.com/in/noyandey88/
 <!---
 codernoyan/codernoyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hello There!, I am
-                <b><a target="_blank" href="https://noyandey.vercel.app">Noyan Dey</a></b>
+                <b><a target="_blank" href="https://noyan.pages.dev">Noyan Dey</a></b>
         </samp>
 </h3>
 
